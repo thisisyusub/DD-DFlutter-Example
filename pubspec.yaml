@@ -27,6 +27,7 @@ dependencies:
   flutter_bloc: ^7.1.0
   dartz: ^0.10.0-nullsafety.2
   equatable: ^2.0.3
+  mockito: ^5.0.13
 
 
   # The following adds the Cupertino Icons font to your application.
